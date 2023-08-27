@@ -40,6 +40,6 @@ Réalisation d'un site de vente de plante en React
 
 ## Comment me contacter
 
-Si vous avez des questions, des commentaires ou des propositions de collaboration, n'hésitez pas à me contacter par e-mail à cornicjonathan@gmail.com ou via mon profil LinkedIn à https://www.linkedin.com/in/jonathan-cornic-024607262/.
+Si vous avez des questions, des commentaires ou des propositions de collaboration, n'hésitez pas à me contacter par [Mail](mailto:cornicjonathan@gmail.com) ou via mon profil [LinkedIn](https://www.linkedin.com/in/jonathan-cornic-024607262/).
 
 Je suis fier d'avoir pu réaliser ce cours qui m'à appris pas mal de choses sur react, et je suis heureux de partager cette expérience avec vous.
